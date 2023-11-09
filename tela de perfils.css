@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #3E2836;
+}
+
+.foto-perfil{
+    border-radius: 50%;
+    width: 10vw;
+    justify-content: space-between;
+    margin-left: 100px;
+}
+
+.perfil{
+   padding-top: 120px;
+}
+
+.disco{
+    
+    padding-top: 170px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.barra-musica{
+    padding-top: 170px;
+}
+
+p{
+    color: whitesmoke;
+}
+
+
+
+
+
